@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757240200 source:d:\projeler\codeblocks\calisanyonetimsistemi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
